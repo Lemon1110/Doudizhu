@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DouDiZhu - 副本", "DouDiZhu - 副本.csproj", "{59A57E78-F65A-ACC2-8DC8-0DE6C5B6471E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DouDiZhu - 副本.Editor", "DouDiZhu - 副本.Editor.csproj", "{3380D7A5-D198-0ACD-6955-AECD1B11DF9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59A57E78-F65A-ACC2-8DC8-0DE6C5B6471E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A57E78-F65A-ACC2-8DC8-0DE6C5B6471E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A57E78-F65A-ACC2-8DC8-0DE6C5B6471E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A57E78-F65A-ACC2-8DC8-0DE6C5B6471E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3380D7A5-D198-0ACD-6955-AECD1B11DF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3380D7A5-D198-0ACD-6955-AECD1B11DF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3380D7A5-D198-0ACD-6955-AECD1B11DF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3380D7A5-D198-0ACD-6955-AECD1B11DF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
